@@ -1,4 +1,4 @@
-<img width="595" height="648" alt="image" src="https://github.com/user-attachments/assets/cba49d92-cc76-4421-9cd3-27489a5a8bfd" /># DỰ ÁN: KIỂM THỬ API & XÁC THỰC LUỒNG DỮ LIỆU (Mock E-commerce Backend)
+# DỰ ÁN: KIỂM THỬ API & XÁC THỰC LUỒNG DỮ LIỆU (Mock E-commerce Backend)
 
 ## 1. Mục tiêu Dự án
 Thực hiện kiểm thử toàn diện các điểm cuối của hệ thống API nhằm đảm bảo tính ổn định, xử lý ngoại lệ tốt và toàn vẹn dữ liệu của Backend. Dự án tập trung vào việc xác thực các phương thức CRUD (Create, Read, Update, Delete) và đối chiếu chéo với cơ sở dữ liệu gốc (Database Cross-checking).
